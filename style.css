@@ -6,7 +6,7 @@
     font-family: sans-serif;
 }
 body{
-    background: url(images/bg.jpg) no-repeat;
+    background: url(img/bg.jpg) no-repeat;
     height: 100vh;
     width: 100%;
     background-size: cover;
@@ -235,7 +235,7 @@ section .media i:hover{
     height: 100vh;
     padding: 70px 0;
     background-color: rgb(246, 155, 139);
-    background: url(images/s.jpg) no-repeat;
+    background: url(img/s.jpg) no-repeat;
     height: 100vh;
     width: 100%;
     background-size: cover;
@@ -529,7 +529,7 @@ section .media i:hover{
 .gallery{
     width: 100%;
     padding: 70px 0;
-    background: url(images/plate.jpg) no-repeat;
+    background: url(img/plate.jpg) no-repeat;
     background-size: cover;
     background-position: center;
 }
@@ -639,7 +639,7 @@ section .media i:hover{
     width: 100%;
     height: 100vh;
     padding: 70px 0;
-    background-image: url(images/bg2.jpg);
+    background-image: url(img/bg2.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -761,7 +761,7 @@ section .media i:hover{
     width: 100%;
     height: 100vh;
     padding: 70px 0;
-    background-image: url(images/plate.jpg);
+    background-image: url(img/plate.jpg);
     background-size: cover;
     background-position: center;
 }
